@@ -1,0 +1,18 @@
+{
+  "name": "loadtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node index",
+    "start-client": "ts-node client"
+  },
+  "author": "",
+  "private": true,
+  "license": "NONE",
+  "dependencies": {
+    "@types/node": "^6.0.43",
+    "ts-node": "^1.3.0",
+    "typescript": "^2.0.3"
+  }
+}
